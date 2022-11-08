@@ -5,7 +5,7 @@
 - 💞️ I’m looking for job ...
 - 📫 How to reach me ...
 - LinkedIn https://www.linkedin.com/in/naveen-v-493b45216
-- Twitter https://www.twitter.com/username/billanaveen0001
+- Twitter https://www.twitter.com/billanaveen0001
 
 <!---
 naveen42266/naveen42266 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
