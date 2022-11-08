@@ -1,0 +1,13 @@
+- 👋 Hi Dev, I’m @naveen42266
+- 👀 I’m interested in Web Development ...
+- 🌱 I’m currently learning JavaScript...
+-  I am pursing Bachelor of Enginnering (BE) in Department of Computer Science and Enginnering (CSE) with 7.67* CGPA (now currently 7th semester) 
+- 💞️ I’m looking for job ...
+- 📫 How to reach me ...
+- LinkedIn https://www.linkedin.com/in/naveen-v-493b45216
+- Twitter https://www.twitter.com/username/billanaveen0001
+
+<!---
+naveen42266/naveen42266 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
