@@ -1,13 +1,23 @@
-- 👋 Hi Dev, I’m @naveen42266
-- 👀 I’m interested in Web Development ...
-- 🌱 I’m currently learning JavaScript...
--  I am pursing Bachelor of Enginnering (BE) in Department of Computer Science and Enginnering (CSE) with 7.67*(till 6 sem) CGPA (now currently 7th semester) 
-- 💞️ I’m looking for job ...
-- 📫 How to reach me ...
-- LinkedIn https://www.linkedin.com/in/naveen-v-493b45216
-- Twitter https://www.twitter.com/billanaveen0001
+- # 💫 About Me :
+Hi Dev 👋,I'm Naveen from India.👀I’m interested in Web Development. I’m currently learning JavaScript.And I am pursing Bachelor of Enginnering (BE) in Department of Computer Science and Enginnering (CSE) with 7.67*(till 6th semester) CGPA (now currently 7th semester) .Iam currently looking for job. I have good experience to create build web and app development. I'd like to discuss about idea and build modern and creative website.Also,I like to watch or play cricket, drawing and listening music.
 
-<!---
-naveen42266/naveen42266 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]( htttps://discord.gg/!Naveen#1125) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/naveenkavin.naveenkavin.7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naveen-v-493b45216) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20596449/naveen-v) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/billanaveen0001) 
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)       ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)   ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=naveen42266&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=naveen42266&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=naveen42266&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=naveen42266&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Quotes
+## Everybody should learn to program a computer ,because it teaches you how to think.
+                                                                    -- Steve Jobs
+
+
+  <!-- Proudly created with reference of gituser (https://github.com/Forest410 ) -->
