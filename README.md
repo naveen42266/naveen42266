@@ -1,5 +1,5 @@
 ## 💫 About Me :
-Hello 👋,I'm Naveen from India.👀I’m interested in Web Development. I’m currently learning JavaScript.And I am pursing Bachelor of Enginnering (BE) in Department of Computer Science and Enginnering (CSE) with 7.67*(till 6th semester) CGPA (now currently 7th semester) .Iam currently looking for job. I have good experience to create build web and app development. I'd like to discuss about idea and build modern and creative website.Also,I like to watch or play cricket, drawing and listening music.
+Hello 👋,I'm Naveen from India.👀I’m interested in Web Development(front-end). I’m currently learning JavaScript.And I am pursing Bachelor of Enginnering (BE) in Department of Computer Science and Enginnering (CSE) with 7.67*(till 6th semester) CGPA (now currently 7th semester) .Iam currently looking for job. I have good experience to create build web and app development. I'd like to discuss about idea and build modern and creative website.Also,I like to watch or play cricket, drawing and listening music.
 
 
 ## 🌐 Socials:
