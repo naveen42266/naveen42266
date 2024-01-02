@@ -1,5 +1,5 @@
 ## 💫 About Me :
-Hello 👋, I'm Naveen from India. 👀I’m interested in Web Development(front-end). I’m currently learning JavaScript. And I am completed Bachelor of Engineering (BE) in Department of Computer Science and Engineering (CSE) with 7.67*(till 6th semester) CGPA (now currently 7th semester) . Iam currently looking for job. I have good experience to create build web and app development.I'd like to discuss about idea and build modern and creative website. Also,I like to watch or play cricket, drawing , gardening and listening music.
+Hello 👋, I'm Naveen from Erode. I have completed my Bachelor of Engineering (BE) in the Department of Computer Science and Engineering (CSE) with a current CGPA of 7.67 (till the 6th semester, and currently in the 7th semester).I am a dynamic Full Stack Developer with specialized skills in React and practical application of Next.js. I have a proven track record of success in developing scalable and responsive web applications. I am excited about contributing to a forward-thinking team, utilizing state-of-the-art technologies to optimize efficiency and deliver exceptional user experiences. As a diligent and committed professional, I am seeking a responsible position to further enhance my practical experience. Also,I like to watch or play cricket, drawing , gardening and listening music.
 
 
 ## 🌐 Socials:
