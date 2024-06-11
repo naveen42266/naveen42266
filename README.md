@@ -1,5 +1,5 @@
 ## 💫 About Me :
-  ![Profile views](https://img.shields.io/github/views/naveen42266/naveen42266.svg)
+![Profile views](https://img.shields.io/github/views/naveen42266/naveen42266.svg)
 
 - 👋 Hello! I'm a Full Stack / Front End / Software Developer from India. 
 - 🧐 I'm currently learning about life, tech & ~~love~~.
