@@ -1,5 +1,5 @@
 ## 💫 About Me :
-![Profile views](https://img.shields.io/github/views/naveen42266/naveen42266.svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ambesawi&label=Profile%20views&color=0e75b6&style=flat" alt="Naveen" /> </p>
 
 - 👋 Hello! I'm a Full Stack / Front End / Software Developer from India. 
 - 🧐 I'm currently learning about life, tech & ~~love~~.
