@@ -4,7 +4,7 @@
 - 🌱 I’m always eager to expand my knowledge.
 - 👯 I’m open to collaborations on interesting projects related to programming and web development.
 - 💬 Connect with me:
-   - Twitter: [billanaveen0001](https://twitter.com/billanaveen0001) / Email: [vnaveenlgp2001@gmail.com](mailto:vnaveenlgp2001@gmail.com)
+   - Twitter: [Twitter / X](https://twitter.com/billanaveen0001) / Email: [EmailID](mailto:vnaveenlgp2001@gmail.com)
 - 🤞 I enjoy watching or playing cricket, running, and drawing.
 
 
