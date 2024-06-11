@@ -1,5 +1,5 @@
 ## 💫 About Me :
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ambesawi&label=Profile%20views&color=0e75b6&style=flat" alt="Naveen" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen42266&label=Profile%20views&color=0e75b6&style=flat" alt="Naveen" /> </p>
 
 - 👋 Hello! I'm a Full Stack / Front End / Software Developer from India. 
 - 🧐 I'm currently learning about life, tech & ~~love~~.
