@@ -1,11 +1,13 @@
 ## 💫 About Me :
+  ![Profile views](https://img.shields.io/github/views/<naveen42266 >/<naveen42266 >.svg)
+
 - 👋 Hello! I'm a Full Stack / Front End / Software Developer from India. 
 - 🧐 I'm currently learning about life, tech & ~~love~~.
 - 🌱 I’m always eager to expand my knowledge.
 - 👯 I’m open to collaborations on interesting projects related to programming and web development.
+- 🤞 I enjoy watching or playing cricket, running, and drawing.
 - 💬 Connect with me:
    - Twitter: [Twitter / X](https://twitter.com/billanaveen0001)  /  Email: [EmailID](mailto:vnaveenlgp2001@gmail.com)  / LinkedIn: [LinkedIn](https://www.linkedin.com/in/naveen007/)
-- 🤞 I enjoy watching or playing cricket, running, and drawing.
 
 
 
@@ -24,7 +26,7 @@
 
 ### ✍️ Quotes
 ## Everybody should learn to program a computer ,because it teaches you how to think.
-                                                                                                                                                                                                       -- Steve Jobs
+                                                                                                  -- Steve Jobs
 
 
   <!-- Proudly created with reference of gituser (https://github.com/Forest410 ) -->
