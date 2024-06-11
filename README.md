@@ -1,12 +1,11 @@
 ## 💫 About Me :
-👋 Hello! I'm a Full Stack / Front End / Software Developer from India. 
-🧐 I'm currently learning about life, tech & ~~love~~.
-🌱 I’m always eager to expand my knowledge.
-👯 I’m open to collaborations on interesting projects related to programming and web development.
-💬 Connect with me:
-   - Twitter: [billanaveen0001](https://twitter.com/billanaveen0001)
-   - Email: [vnaveenlgp2001@gmail.com](mailto:vnaveenlgp2001@gmail.com)
-🤞 I enjoy watching or playing cricket, running, and drawing.
+- 👋 Hello! I'm a Full Stack / Front End / Software Developer from India. 
+- 🧐 I'm currently learning about life, tech & ~~love~~.
+- 🌱 I’m always eager to expand my knowledge.
+- 👯 I’m open to collaborations on interesting projects related to programming and web development.
+- 💬 Connect with me:
+   - Twitter: [billanaveen0001](https://twitter.com/billanaveen0001) / Email: [vnaveenlgp2001@gmail.com](mailto:vnaveenlgp2001@gmail.com)
+- 🤞 I enjoy watching or playing cricket, running, and drawing.
 
 
 
