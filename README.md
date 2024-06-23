@@ -23,7 +23,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=naveen42266&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=naveen42266&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=naveen42266&theme=radical&no-frame=false&no-bg=false&margin-w=4) 
+
+## Github Timelines
+<img src="https://raw.githubusercontent.com/Ruan-Portella/ruan-portella/output/github-contribution-grid-snake.svg" alt="red"/>
 
 ### ✍️ Quotes
 ## Everybody should learn to program a computer ,because it teaches you how to think.
