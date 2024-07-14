@@ -1,7 +1,7 @@
 ## 💫 About Me :
 ![](https://komarev.com/ghpvc/?username=naveen42266&color=green)
 
-- 👋 Hello! I'm a Full Stack / Front End / Software Developer from India. 
+- 👋 Hello! I'm a Front End / Software Developer from India. 
 - 🧐 I'm currently learning about life, tech & ~~love~~.
 - 🌱 I’m always eager to expand my knowledge.
 - 👯 I’m open to collaborations on interesting projects related to programming and web development.
