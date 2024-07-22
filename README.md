@@ -10,6 +10,7 @@
    - Twitter: [Twitter / X](https://twitter.com/billanaveen0001)
    - Email: vnaveenlgp2001@gmail.com
    - LinkedIn: [LinkedIn](https://www.linkedin.com/in/naveen007/)
+   - Portfolio: [Portfolio](https://portfolio-naveen4.vercel.app/)
 
 
 
