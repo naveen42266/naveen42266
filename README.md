@@ -8,7 +8,7 @@
 - 🤞 I enjoy watching or playing cricket, running, and drawing.
 - 💬 Connect with me:
    - Twitter: [Twitter / X](https://twitter.com/billanaveen0001)
-   - Email: [Email] (https://mailto:vnaveenlgp2001@gmail.com)
+   - Email: [Email](https://mailto:vnaveenlgp2001@gmail.com)
    - LinkedIn: [LinkedIn](https://www.linkedin.com/in/naveen007/)
    - Portfolio: [Portfolio](https://portfolio-naveen4.vercel.app/)
 
