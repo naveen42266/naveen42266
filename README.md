@@ -5,7 +5,7 @@
 - 🧐 I'm currently learning about life, tech & ~~love~~.
 - 🌱 I’m always eager to expand my knowledge.
 - 👯 I’m open to collaborations on interesting projects related to programming and web development.
-- 🤞 I enjoy watching or playing cricket, running, and drawing.
+- 🤞 I enjoy watching or playing & watching cricket, running, and drawing.
 - 💬 Connect with me:
    - Twitter: [Twitter / X](https://twitter.com/billanaveen0001)
    - Email: [Email](https://mailto:vnaveenlgp2001@gmail.com)
